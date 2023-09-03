@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/LViPJi92JjYzkBmIkX/giphy.gif"  />
+  <img height="400" src="https://media.giphy.com/media/LViPJi92JjYzkBmIkX/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" href="https://www.facebook.com/LSXAxeller" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" href="https://instagram.com/lsxaxeller" />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">You can call me RI<br><br>- 🔭 I’m working as Game Developer<br>- 📚 I'm currently studying law<br>- ⚡ In my free time I learn Game Design, Machine Learning, 3D Modelling</p>
+<p align="left">You can call me RI<br><br>- 🔭 I’m working as Game Developer<br>- 📚 I'm currently studying Law<br>- ⚡ In my free time I do Game Design, Machine Learning, 3D Modelling</p>
 
 ###
 
