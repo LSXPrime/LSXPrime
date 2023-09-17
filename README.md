@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="fate-heavens-feel3-heavens-feel3.gif"  />
+  <img height="500" src="fate-heavens-feel3-heavens-feel3.gif"  />
 </div>
 
 ###
@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LSXPrime.LSXPrime&"  />
-</div>
-
-###
-
 <h1 align="center">LSXPRIME</h1>
 
 ###
@@ -29,7 +23,7 @@
 
 ###
 
-<p align="left">You can call me RI<br><br>- 🔭 I’m working as Game Developer<br>- 📚 I'm currently studying Law<br>- ⚡ In my free time I do Game Design, Machine Learning, 3D Modelling</p>
+<p align="left">I'M RI 🦇<br><br>- 🎮 I’m working as Game Developer<br>- 📚 I'm currently studying Law<br>- 🕓 In my free time I do Game Design, Machine Learning, 3D Modelling</p>
 
 ###
 
@@ -49,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="40" alt="pytorch logo"  />
 </div>
 
 ###
