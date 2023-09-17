@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="[https://media.tenor.com/WVimaSM0jRMAAAAC/fate-heavens-feel3-heavens-feel3.gif](https://media.tenor.com/WVimaSM0jRMAAAAC/fate-heavens-feel3-heavens-feel3.gif)"  />
+  <img height="400" src="https://media.tenor.com/WVimaSM0jRMAAAAC/fate-heavens-feel3-heavens-feel3.gif"  />
 </div>
 
 ###
