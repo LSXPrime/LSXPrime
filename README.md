@@ -26,16 +26,14 @@
 
 ###
 
-Greetings mortals, I am RI 🦇, your future world-dominating code maestro and game overlord, and perhaps that one ruler you will never wish. Here's the sinister truth of my master plan:
+Greetings mortals, I am RI 🦇
 
-- 🎮 Currently concocting the ultimate experience to ensnare hearts and minds as a Game Developer
-- 📚 Always expanding my arsenal, currently honing my skills in Dart, Flutter, and the dark arts of Fullstack domination
-- 💻 Fluent in a plethora of tech, including .NET, C#, Unity, Blender, and other weapons of mass creation
-- 🌱 Forever scheming, plotting, and innovating, because ruling the world requires constant evolution
-- 🕓 When I'm not plotting world domination, you'll catch me shaping the future of Game Design, tinkering with Machine Learning, or sculpting digital nightmares in 3D.
-- 🍻 In my downtime, you might find me sharing a drink with the Jade Emperor himself, chilling in some Chinese manhua. Or perhaps, I'm out hunting demons in the pages of a thrilling manga.
-
-Remember, with great code comes great power. one line at a time...for darkness shall reign supreme.
+- 🌉 Currently bridging the gap between .NET and native projects with C++.
+- 🎮 Game developer at heart, but currently focused on backend, lower-level systems programming and Generative AI.
+- 📚 Always expanding my arsenal, currently honing my skills in C++, C and the dark arts of Fullstack domination.
+- 💻 Fluent in a plethora of tech, including .NET, C#, Unity, Blender, ZBrush, with some knowledge in Flutter, Networking, Unreal Engine and other weapons of mass creation.
+- 🕓 When I'm not plotting world domination, I'm passionate about game design, machine learning, and 3D art, and I spend my free time immersed in these creative pursuits.
+- 🍻 In my downtime, you might find me sharing a drink with the Jade Emperor himself, or Courting death with the Demonic Sect, chilling in some Chinese manhua. Or perhaps, I'm out hunting demons in the pages of a thrilling manga.
 
 
 ###
@@ -52,6 +50,10 @@ Remember, with great code comes great power. one line at a time...for darkness s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" />
+  <img width="12" />
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
