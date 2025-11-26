@@ -1,46 +1,61 @@
 <div align="center">
-  <img height="500" src="fate-heavens-feel3-heavens-feel3.gif"  />
+  <img height="500" src="fate-heavens-feel3-heavens-feel3.gif" alt="Banner (Fate/Stay Night)" />
 </div>
 
-###
+<br />
 
 <div align="center">
-  <a href="https://www.facebook.com/LSXAxeller" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  <a href="https://www.facebook.com/LSXAxeller" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook" />
   </a>
-  <a href="https://www.instagram.com/lsxaxeller" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  <a href="https://github.com/LSXPrime" target="_blank">
+    <img src="https://img.shields.io/github/followers/LSXPrime?style=for-the-badge&logo=github&label=Follow&color=black" height="25" alt="github followers" />
   </a>
-  <a href="https://github.com/LSXPrime" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/LSXPrime?style=for-the-badge&logo=github&label=Follow&color=black" height="25" alt="github logo" />
+  <a href="https://github.com/LSXPrime" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=lsxprime&label=Profile%20Visitors&color=958d40&style=for-the-badge" height="25" alt="visitor badge"/>
   </a>
 </div>
 
-###
+<h1 align="center">Hi, I'm Ahmed Abdallah</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=cae1f4&center=true&vCenter=true&width=435&lines=Software+Engineer;Game+Developer;Audio+%26+AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-<h1 align="center">LSXPRIME</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-Greetings mortals, I am RI 🦇
-
-- 🌉 Currently bridging the gap between .NET and native projects with C++.
-- 🎮 Game developer at heart, but currently focused on backend, lower-level systems programming and Generative AI.
-- 📚 Always expanding my arsenal, currently honing my skills in C++, C and the dark arts of Fullstack domination.
-- 💻 Fluent in a plethora of tech, including .NET, C#, Unity, Blender, ZBrush, with some knowledge in Flutter, Networking, Unreal Engine and other weapons of mass creation.
-- 🕓 When I'm not plotting world domination, I'm passionate about game design, machine learning, and 3D art, and I spend my free time immersed in these creative pursuits.
-- 🍻 In my downtime, you might find me sharing a drink with the Jade Emperor himself, or Courting death with the Demonic Sect, chilling in some Chinese manhua. Or perhaps, I'm out hunting demons in the pages of a thrilling manga.
+<p align="center">
+  <em>"I learn not to reach perfection, but to ensure I never regret my failures in the pursuit of a perfect world."</em>
+</p>
 
 
-###
+<br />
 
-<h3 align="left">🛠 Language and tools</h3>
+### ⚠️ Current Status: On Hiatus
+> **Note:** By the end of 2025 I will be away for mandatory military service (approx. 1-3 years). Internet access will be non-existent. I will do some minor updates as my final major contribution before this departure. Thank you to everyone who supported my work.
 
-###
+<br />
+
+### 👨‍💻 About Me
+
+I am a developer driven by the desire to understand how systems work from the ground up. I don't claim to be a master, but I pour everything I have into the tools I build.
+
+While my roots are in **Game Development**, I am currently bridging the gap between **Managed (.NET)** and **Native** ecosystems. I enjoy solving complex performance problems, creating desktop applications, working with Audio/DSP, and exploring Generative AI.
+
+*   🔭 **Current Focus:** Building comprehensive tools for creators (Audio Frameworks & AI Processors).
+*   🌱 **Learning:** Low-level system architecture, C++, and Native Interop.
+*   ⚡ **Interests:** Game Design, 3D Sculpting, and Manhua/Manga.
+
+<br />
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[SoundFlow](https://github.com/LSXPrime/SoundFlow)** | A comprehensive audio & MIDI framework. Features FFmpeg support, Playback, Editing, Synthesis, and Sequencing to build custom DAWs. | `C#` `DSP` `Audio` | 🟢 **Active** |
+| **[ProseFlow](https://github.com/LSXPrime/ProseFlow)** | A universal AI text processor & Copilot powered by local and cloud LLMs for Windows, macOS, and Linux. | `.NET 8` `AI` | 🟢 **Active** |
+| **[Aegis](https://github.com/LSXPrime/Aegis)** | A robust licensing library supporting offline/online validation and hardware locking. | `Security` | 🔵 **Stable** |
+
+<br />
+
+### 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
@@ -66,14 +81,13 @@ Greetings mortals, I am RI 🦇
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-###
+<br />
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LSXPrime&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSXPrime&theme=github_dark" height="180" alt="profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSXPrime&theme=github_dark" height="180" alt="profile stats" />
 </div>
 
-###
+<br />
