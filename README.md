@@ -28,8 +28,15 @@
 
 <br />
 
+
 ### ⚠️ Current Status: On Hiatus
-> **Note:** By the end of 2025 I will be away for mandatory military service (approx. 1-3 years). Internet access will be non-existent. I will do some minor updates as my final major contribution before this departure. Thank you to everyone who supported my work.
+> **Note:** I will be away for mandatory military service starting on **10 January 2026**.
+> 
+> The estimated duration of service is approximately **one year**, with an anticipated return date around early February 2027.
+> 
+> While I will be unable to make official contributions or dedicated updates during this time, I may have sporadic, unscheduled breaks to briefly check messages and review what I've missed. Please understand that formal replies or updates will generally not be possible until my return.
+> 
+> Thank you for your patience and continued support.
 
 <br />
 
@@ -86,8 +93,8 @@ While my roots are in **Game Development**, I am currently bridging the gap betw
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSXPrime&theme=github_dark" height="180" alt="profile details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSXPrime&theme=github_dark" height="180" alt="profile stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSXPrime&theme=github_dark" height="130" alt="profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSXPrime&theme=github_dark" height="130" alt="profile stats" />
 </div>
 
 <br />
